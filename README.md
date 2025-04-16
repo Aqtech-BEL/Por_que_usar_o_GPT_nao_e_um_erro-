@@ -35,13 +35,13 @@
 
   <h2>🧭 Onde buscar mais conhecimento</h2>
 
-  <h3>👨‍💻 <a href="https://github.com/osprogramadores/desafios" target="_blank">OsProgramadores</a></h3>
+  <h3>👨‍💻 <a href="https://github.com/osprogramadores" target="_blank">OsProgramadores</a></h3>
   <ul>
     <li>Comunidade ativa, com desafios em várias linguagens.</li>
     <li>Ideal pra treinar lógica e aprender com outros devs.</li>
   </ul>
 
-  <h3>📺 <a href="https://www.youtube.com/@devclub" target="_blank">DevClub no YouTube</a></h3>
+  <h3>📺 <a href="" target="_blank">DevClub no YouTube</a></h3>
   <ul>
     <li>Conteúdo claro, prático e atualizado.</li>
     <li>Ótimo pra quem está começando e quer aprender na prática.</li>
